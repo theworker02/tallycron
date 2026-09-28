@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/tallycron",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tally color cron values and contrast-safe presentation helpers.",
+  "bin": {
+    "tallycron": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/tallycron.git"
+  },
+  "homepage": "https://theworker02.github.io/tallycron/",
+  "keywords": [
+    "tally",
+    "cron",
+    "color",
+    "cli",
+    "toolkit"
+  ]
+}
